@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @waqarroghani
-- 👀 I’m interested in learning new skills
+-  a full stack developer
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 contact waqarroghani16@gmail.com
