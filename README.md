@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @waqarroghani
 -  a full stack developer
 - 🌱 I’m currently learning devops
-- 💞️ I’m looking to collaborate on open source projects
+- my tech stack is javascript,react ,next js ,vue
+- 
 - 📫 contact waqarroghani16@gmail.com
 
 <!---
