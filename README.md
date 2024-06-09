@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning devops
 - my tech stack is javascript,react ,next js ,vue
 - 
-- 📫 contact waqarroghani16@gmail.com
+- 📫 contact 
 
 <!---
 waqarroghani/waqarroghani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
